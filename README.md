@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AditiyaPrasad
-- 👀 I’m interested in Python and Space Engineer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 👀 I’m interested in Python and Space Engineering 
+- 🌱 I’m currently in Middle School 
+- 📫 How to reach me : aditiya.prasad19@gmail.com
 
 <!---
 AditiyaPrasad/AditiyaPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
